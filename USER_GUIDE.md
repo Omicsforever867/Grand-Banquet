@@ -127,12 +127,12 @@ python grand_banquet.py
 ```
 
 The GUI window will open with the following tabs:
-- 1. Data Loading
-- 2. Preprocessing
-- 3. Variable Selection
-- 4. Model Training
-- 5. Results Analysis
-- 6. AI Report Generation
+1. Data Loading
+2. Preprocessing
+3. Variable Selection
+4. Model Training
+5. Results Analysis
+6. AI Report Generation
 
 ### Step 2: Load Your Data
 
@@ -359,4 +359,5 @@ The GUI window will open with the following tabs:
 **Email**: jiawenyang@cofco.com / wenyang.jia123@outlook.com / wjia02@qub.ac.uk (optional)
 
 ---
+
 
