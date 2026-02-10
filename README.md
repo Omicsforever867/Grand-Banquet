@@ -37,7 +37,7 @@ Grand Banquet (GB) is a next-generation chemometrics framework for classificatio
    pip install -r requirements.txt
    ```
 
-2. **Run the application**
+2. **Run the application** （"grand_banquet.py" will be published soon）
    ```bash
    python grand_banquet.py
    ```
@@ -138,3 +138,4 @@ If you use Grand Banquet in your research, please cite:
 *Grand Banquet offers a low-bias baseline for modern data analysis and a practical step towards method governance and reproducibility.*
 
 </div>
+
