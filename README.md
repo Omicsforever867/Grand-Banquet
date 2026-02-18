@@ -82,7 +82,7 @@ If you prefer to select methods manually:
 ## Documentation
 
 - **[User Guide](USER_GUIDE.md)** - Step-by-step user guide (Start here)
-- **[Preprint](https://arxiv.org/abs/XXXX.XXXXX)** - Preprint paper (arXiv) *(to be updated)*
+- **[Preprint]([https://doi.org/10.26434/chemrxiv.15000013/v1])** - Preprint paper (ChemRxiv) *(https://doi.org/10.26434/chemrxiv.15000013/v1)*
 - **[Leaderboard System](LEADERBOARD_DOCUMENTATION.md)** - Performance evaluation details
 
 ## Supported Methods
@@ -138,4 +138,5 @@ If you use Grand Banquet in your research, please cite:
 *Grand Banquet offers a low-bias baseline for modern data analysis and a practical step towards method governance and reproducibility.*
 
 </div>
+
 
